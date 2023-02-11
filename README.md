@@ -1,9 +1,22 @@
-# Hangman-the-game
-A short game made using Pygame library in python
+ 
+## Pendu en Python
+<br> <hr> 
+<h3> Description : </h3>
+<p> Le jeu du pendu est un jeu de devinette consistant à trouver un mot en devinant les lettres qui le composent. Le joueur a droit à un nombre limité d'essais. </p>
+<br><hr color="red">
 
-# Intro
-I created this game in Python 3, using Python's pygame library. This was a semester project, so i had to create the whole game without any aid of a game making software. 
+ 
+
+<h3> pour cloner le projet :
+
+```bash 
+   git clone  https://github.com/AHmed-Malik-benelkadi/pendu.git
+```
+</h3>
+<br><hr color="red">
 
 
 
-ECHEC DE CE PROJET, IL FAUT REFAIRE LE CODE EN PYTHON NULL
+<h3> contrubuteurs : </h3>
+<ul>
+<li> Ahmed Ben El Kadi </li>
